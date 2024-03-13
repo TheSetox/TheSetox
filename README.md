@@ -9,6 +9,8 @@
 
 You can also check my website on: https://thesetox.github.io/about-me.html
 
+[![TheSetox's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesetox&theme=dracula&show_icons=true)](https://github.com/thesetox/github-readme-stats)
+
 ### わかりますか？ ###
 <!--
 **TheSetox/TheSetox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
