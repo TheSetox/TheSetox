@@ -1,5 +1,5 @@
 
-### こんにちわ、わたしは Stephen！ 👋 ###
+### Hi! I'm Stephen！ 👋 ###
 
 - 🔭 I’m currently working on contributing to develop and improve multiple projects to build an Android App and KMP.
 - 🌱 I’m currently learning Kotlin Multiplaform (iOS, desktop, web, server, Android). 
@@ -11,7 +11,6 @@ You can also check my website on: https://thesetox.github.io/about-me.html
 
 ![TheSetox's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesetox&theme=dracula&show_icons=true)
 
-### わかりますか？ ###
 <!--
 **TheSetox/TheSetox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
