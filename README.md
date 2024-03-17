@@ -11,6 +11,37 @@ You can also check my website on: https://thesetox.github.io/about-me.html
 
 ![TheSetox's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesetox&theme=dracula&show_icons=true)
 
+## Latest Projects
+
+### Concise Thinking [WIP]
+
+* Kotlin Multiplatform
+* Compose Multiplatform
+* and more coming soon..
+
+<img src="dashboard.png" width="300">   <img src="cards.png" width="300">   <img src="settings.png" width="300">
+
+### Kotlin Multiplatform Playground
+
+https://github.com/TheSetox/KMP-Fun-Clean-Architecture
+
+- Android - OK
+- iOS - OK
+- Desktop - Coming soon..
+- Web - Coming soon..
+- Backend - Coming soon.. 
+
+#### Features
+* Integrate News API
+* SQL Delight
+* Coil
+* Ktor Client Library
+* Koin
+* KotlinX Serialization
+* Kotlin Coroutine
+
+<img src="android_screenshot.png" width="300">   <img src="ios_screenshot.png" width="300">
+
 <!--
 **TheSetox/TheSetox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
