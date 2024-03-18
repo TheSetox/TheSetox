@@ -19,7 +19,9 @@ You can also check my website on: https://thesetox.github.io/about-me.html
 * Compose Multiplatform
 * and more coming soon..
 
-<img src="dashboard.png" width="300">   <img src="cards.png" width="300">   <img src="settings.png" width="300">
+<img src="dashboard.png" width="300">   <img src="cards.png" width="300">
+<img src="settings.png" width="300">    <img src="settings_ios.png" width="300">
+<img src="dashboard_ios.png" width="300">   <img src="cards_ios.png" width="300">
 
 ### Kotlin Multiplatform Playground
 
