@@ -13,7 +13,28 @@ You can also check my website on: https://thesetox.github.io/about-me.html
 
 ## Latest Projects
 
-### Concise Thinking [WIP]
+### 1. Prepare Library
+
+https://github.com/TheSetox/Prepare
+
+A lightweight utility composable for preparing and loading individual composables.
+
+<img src="preparation_icon.png" width="200"> 
+<a href="https://www.flaticon.com/free-icons/prepare" title="prepare icons">Prepare icons created by kerismaker - Flaticon</a>
+
+## API
+
+```kotlin
+@Composable
+fun Prepare(
+    preview: () -> Unit = {},
+    data: @Composable () -> Unit = {},
+    dialog: @Composable () -> Unit = {},
+    screen: @Composable () -> Unit,
+)
+```
+
+### 2. Concise Thinking [WIP]
 
 * Kotlin Multiplatform
 * Compose Multiplatform
@@ -25,7 +46,7 @@ You can also check my website on: https://thesetox.github.io/about-me.html
 #### iOS
 <img src="dashboard_ios.png" width="200">   <img src="cards_ios.png" width="200">   <img src="settings_ios.png" width="200">
 
-### Kotlin Multiplatform Playground
+### 3. Kotlin Multiplatform Playground
 
 https://github.com/TheSetox/KMP-Fun-Clean-Architecture
 
