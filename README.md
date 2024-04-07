@@ -20,10 +20,10 @@ You can also check my website on: https://thesetox.github.io/about-me.html
 * and more coming soon..
 
 #### Android
-<img src="dashboard.png" width="300">   <img src="cards.png" width="300">   <img src="settings.png" width="300">
+<img src="dashboard.png" width="200">   <img src="cards.png" width="200">   <img src="settings.png" width="200">
 
 #### iOS
-<img src="dashboard_ios.png" width="300">   <img src="cards_ios.png" width="300">   <img src="settings_ios.png" width="300">
+<img src="dashboard_ios.png" width="200">   <img src="cards_ios.png" width="200">   <img src="settings_ios.png" width="200">
 
 ### Kotlin Multiplatform Playground
 
@@ -44,7 +44,7 @@ https://github.com/TheSetox/KMP-Fun-Clean-Architecture
 * KotlinX Serialization
 * Kotlin Coroutine
 
-<img src="android_screenshot.png" width="300">   <img src="ios_screenshot.png" width="300">
+<img src="android_screenshot.png" width="200">   <img src="ios_screenshot.png" width="200">
 
 <!--
 **TheSetox/TheSetox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
