@@ -1,7 +1,7 @@
 
 ### Hi! I'm Stephen！ 👋 ###
 
-- 🔭 I’m currently working on contributing to develop and improve multiple projects to build an Android App and KMP.
+- 🔭 I’m currently working as an Android Developer and I'm very interested working in a fintech company.
 - 🌱 I’m currently learning Kotlin Multiplaform (iOS, desktop, web, server, Android). 
 - 😄 Pronouns: his, he, him
 - 📫 How to reach me: stephen.siapno7@gmail.com
