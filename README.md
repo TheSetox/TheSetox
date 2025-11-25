@@ -9,8 +9,6 @@
 
 You can also check my website on: https://thesetox.github.io/about-me.html
 
-![TheSetox's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesetox&theme=dracula)
-
 <!-- ## Latest Projects -->
 
 <!--
