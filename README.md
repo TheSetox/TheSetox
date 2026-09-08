@@ -6,6 +6,12 @@ This is where I share my personal projects and experiments. You can find my work
 
 ## Currently building: Myrna & Judith
 
+<p align="center">
+  <a href="https://myrnaandjudith.com/">
+    <img src="assets/myrna-and-judith.png" alt="Myrna and Judith, the app's friendly bill and payday companions" width="480" />
+  </a>
+</p>
+
 **A friendlier way to keep up with bills and payday.**
 
 I'm building [Myrna & Judith](https://myrnaandjudith.com/), an offline app that helps you track bills, remember due dates, and see what's coming before your next payday. It brings bill tracking, payday countdowns, and local reminders together, with no account required.
