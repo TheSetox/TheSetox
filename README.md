@@ -1,26 +1,25 @@
+# Hi, I'm Stephen Siapno 👋
 
-### Hi! I'm Stephen！ 👋 ###
+I'm an **Android Developer at EROAD** and the creator of **Myrna & Judith**. I build apps with Kotlin, Jetpack Compose, and Kotlin Multiplatform, with a focus on making everyday tasks simpler.
 
-- 🔭 I’m currently working as an Android Developer and I'm very interested working in a fintech company.
-- 🌱 I’m currently learning Kotlin Multiplaform (iOS, desktop, web, server, Android). 
-- 😄 Pronouns: his, he, him
-- 📫 How to reach me: stephen.siapno7@gmail.com
-- 📫 LinkedIn: https://www.linkedin.com/in/stephen-siapno/
+This is where I share my personal projects and experiments. You can find my work account at **[@stephensiapno](https://github.com/stephensiapno)**.
 
-You can also check my website on: https://thesetox.github.io/about-me.html
+## Currently building: Myrna & Judith
 
-<!-- ## Latest Projects -->
+**A friendlier way to keep up with bills and payday.**
 
-<!--
-**TheSetox/TheSetox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building [Myrna & Judith](https://myrnaandjudith.com/), an offline app that helps you track bills, remember due dates, and see what's coming before your next payday. It brings bill tracking, payday countdowns, and local reminders together, with no account required.
 
-Here are some ideas to get you started:
+Built with **Kotlin Multiplatform** and **Compose Multiplatform**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Explore Myrna & Judith](https://myrnaandjudith.com/) · [Get it on the App Store](https://apps.apple.com/us/app/myrna-judith/id6767477202)**
+
+## What I work with
+
+Kotlin · Android · Jetpack Compose · Kotlin Multiplatform · Compose Multiplatform · MVVM · Koin
+
+## Let's connect
+
+[Email](mailto:stephen.siapno7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/stephen-siapno/) · [Website](https://thesetox.github.io/about-me.html)
+
+Pronouns: he/him
