@@ -8,7 +8,7 @@ This is where I share my personal projects and experiments. You can find my work
 
 <p align="center">
   <a href="https://myrnaandjudith.com/">
-    <img src="assets/myrna-and-judith.png" alt="Myrna and Judith, the app's friendly bill and payday companions" width="480" />
+    <img src="assets/myrna-and-judith.png" alt="Myrna &amp; Judith logo" width="280" />
   </a>
 </p>
 
